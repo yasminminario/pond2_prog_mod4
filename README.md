@@ -28,10 +28,12 @@ Este documento descreve o processo de montagem e as conexões necessárias para 
 
 | Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
 |---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|---------------------------|
-| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | Até 3              | Até 1,5                            | 0                        |             3              |
-| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | Até 3              | Até 1,5                          | 0                        |        3                   |
-| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | Até 3              | Até 1,5                          | 0                        |     3                       |
-| Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | Até 1              |  Até 0,5                         | 0                        |       1                    |
-|  |                                                             |  | |**Pontuação Total**|
+| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | Até 3              | Até 1,5                            | 0                        | (3) Contempla: Os fios foram dispostos corretamente! Yasmin também utilizou os resistores de forma adequada. |
+| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | Até 3              | Até 1,5                          | 0                        | (3) Contempla: A temporização segue os critérios do professor. |
+| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | Até 3              | Até 1,5                          | 0                        | (3) Contempla: O semáforo apresenta as fases esperadas e o código está comentado. |
+| Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | Até 1              |  Até 0,5                         | 0                        | (1) Contempla: Yasmin utilizou ponteiros no seu código.                         |
+|  |                                                             |  | |*Pontuação Total:* 10|
+
+
 ## 4. Considerações Finais
 Depois de montar e conectar tudo, é necessário conferir se as ligações estão corretas para garantir que o circuito está seguro e funcionando bem. Considerando que todas as ligações foram feitas de um jeito certo, os LEDs acenderão na sequência certa, simulando o funcionamento de um semáforo.
